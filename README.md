@@ -1,4 +1,4 @@
-# DATA STRUCTUREs AND ALGORITHMS
+# DATA STRUCTURES AND ALGORITHMS
 ### IMPLEMENTED IN PYTHON
 
 * [DATA STRUCTURE](../../tree/main/Data%20Structure)
@@ -10,4 +10,4 @@
   + [Sorting](../../tree/main/Algorithm/Sorting)
   + [Searching](../../tree/main/Algorithm/Searching)
 
-### FOLLOW ME ON &nbsp; [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hritikakolkar/) &nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/HRITIKAKOLKAR/) &nbsp; [Kaggle](https://www.kaggle.com/hritikakolkar)
+###### FOLLOW ME ON &nbsp; [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hritikakolkar/) &nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/HRITIKAKOLKAR/) &nbsp; [Kaggle](https://www.kaggle.com/hritikakolkar)
