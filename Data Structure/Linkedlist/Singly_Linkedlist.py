@@ -29,17 +29,16 @@ class Singly_Linkedlist:
         return self.length
     
     def prepend(self, data : object) -> None :
-        current_Node = self.head 
-        while current_Node != None :
-            current_Node = current_Node.next
-        current_Node = Node(data = data , next = None)
-        self.length += 1
-        
-    def append(self, data : object) -> None :
         if self.head == None :
                 self.head = Node(data = data, next = None)
         else :
             self.head = Node(data = data, next = self.head)
+        self.length += 1
+    def append(self, data : object) -> None :
+        current_Node = self.head 
+        while current_Node != None :
+            current_Node = current_Node.next
+        current_Node = Node(data = data , next = None)
         self.length += 1
 
     def insert(self, position : int, data : object ) -> None :
@@ -55,4 +54,5 @@ class Singly_Linkedlist:
                 index += 1
             current_Node.next = Node(data= data, next = current_Node.next)
             self.length += 1
+    def remove()
 llist = Singly_Linkedlist()
