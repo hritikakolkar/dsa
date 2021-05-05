@@ -1,7 +1,7 @@
 # DATA STRUCTURES AND ALGORITHMS
 ### IMPLEMENTED IN PYTHON
 
-* [DATA STRUCTURE](../../tree/main/Data%20Structure)
+* [DATA STRUCTURES](../../tree/main/Data%20Structure)
   + [LinkedList](../../tree/main/Data%20Structure/Linkedlist/)
     - [Singly LinkedList](../../tree/main/Data%20Structure/Linkedlist/Singly_Linkedlist.py)
     - [Doubly LinkedList](../../tree/main/Data%20Structure/Linkedlist/Doubly_Linkedlist.py)
