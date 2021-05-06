@@ -13,11 +13,27 @@ class Doubly_Linkedlist :
     def __init__(self) -> None:
         self.head = None
         self.tail = None
-        self.length = None
+        self.length = 0
 
     def __len__(self) -> int:
         return self.length
     
+    def printlist(self, reverse = False):
+        if reverse :
+            current_Node = self.tail
+            print("None <- ",end="")
+            while current_Node.prev != None :
+                print(current_Node.data, end=" <-> ")
+                current_Node = current_Node.prev
+            print(current_Node.data, end=" -> None\n")
+        else :
+            current_Node = self.head
+            print("None <- ",end="")
+            while current_Node.next != None :
+                print(current_Node.data, end=" <-> ")
+                current_Node = current_Node.next
+            print(current_Node.data, end=" -> None\n")
+            
     def append(self, data : object) -> None :
         if self.head == None :
             self.head = Node(data = data)
@@ -48,4 +64,10 @@ class Doubly_Linkedlist :
                 current_Node = current_Node.next
             current_Node.next = Node(data = data, next = current_Node.next, prev = current_Node)
             self.length += 1
-    
+dllist = Doubly_Linkedlist()
+dllist.append(1)
+dllist.append(2)
+dllist.append(3)
+dllist.append(4)
+dllist.printlist()
+dllist.printlist(reverse=True)
