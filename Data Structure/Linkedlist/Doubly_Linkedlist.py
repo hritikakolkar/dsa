@@ -65,13 +65,35 @@ class Doubly_Linkedlist :
                 index+=1
             current_Node.next = Node(data = data, next = current_Node.next, prev = current_Node)
             self.length += 1
+    
+    def remove_First(self) -> None :
+        self.head = self.head.next
+        self.length -= 1
+            
+    def remove_Last(self) -> None :
+        self.tail = self.tail.prev
+        self.length -= 1
+           
+    def remove(self, position) -> None :
+        if position <= 0 :
+            self.remove_First()
+        elif position >= self.length - 1 :
+            self.remove_Last()
+        else :
+            current_Node = self.head
+            index = 0
+            while index < position :
+                current_Node = current_Node.next
+                index += 1
+            pass 
+            
 dllist = Doubly_Linkedlist()
 dllist.append(1)
 dllist.append(2)
 dllist.append(3)
 dllist.append(4)
 dllist.prepend(0)
-dllist.insert(100,1)
+dllist.insert(100,2)
 dllist.printlist()
 dllist.printlist(reverse=True)
-print(dllist.tail.prev.prev.data)
+print(dllist.tail.prev.data)
