@@ -24,5 +24,9 @@
     - [Topological Sort](../../tree/main/Algorithm/Sorting/Topological_Sort.py)
     - [Bucket or Bin Sort](../../tree/main/Algorithm/Sorting/Bucket_Sort.py)
   + [Searching](../../tree/main/Algorithm/Searching)
-
+    - [Unordered Linear Search](../../tree/main/Algorithm/Searching/Unorderd_Linear_Search.py)
+    - [Ordered Linear Search](../../tree/main/Algorithm/Searching/Orderd_Linear_Search.py)
+    - [Binary Search](../../tree/main/Algorithm/Searching/Binary_Search.py)
+    - [Ternary Search](../../tree/main/Algorithm/Searching/Ternary_Search.py)
+    - [Interpolation Search](../../tree/main/Algorithm/Searching/Interpolation_Search.py)
 ###### FOLLOW ME ON &nbsp; [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hritikakolkar/) &nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/HRITIKAKOLKAR/) &nbsp; [Kaggle](https://www.kaggle.com/hritikakolkar)
