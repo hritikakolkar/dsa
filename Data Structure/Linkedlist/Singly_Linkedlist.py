@@ -2,7 +2,7 @@
 This program is written by Hritik Akolkar
 Follow me on Linkedin and Github
 """
-# List consisits od a number of nodes in ehich wach node has pointer to the following element
+# List consists of a number of nodes in which each node has pointer to the following element
 # Definig a Node class
 class Node:
     """
