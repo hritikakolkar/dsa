@@ -2,6 +2,8 @@
 ### IMPLEMENTED IN PYTHON
 
 * [DATA STRUCTURES](../../tree/main/Data%20Structure)
+  + [Arrays](../../tree/main/Data%20Structure/Array/)
+  + [Matrix](../../tree/main/Data%20Structure/Matrix/)
   + [LinkedLists](../../tree/main/Data%20Structure/Linkedlist/)
     - [Singly LinkedList](../../tree/main/Data%20Structure/Linkedlist/Singly_Linkedlist.py)
     - [Doubly LinkedList](../../tree/main/Data%20Structure/Linkedlist/Doubly_Linkedlist.py)
