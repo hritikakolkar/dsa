@@ -44,7 +44,7 @@
   + [Selection Algorithms](../../tree/main/Algorithm/Selection_Algorithms)
   + [Hashing](../../tree/main/Algorithm/Selection)
   + [String Algorithms](../../tree/main/Algorithm/String_Algorithms)
-* [ALGORITHMS Design Techniques](../../tree/main/Algorithms_Design_Techniques) 
+* [ALGORITHMS DESIGN TECHNIQUES](../../tree/main/Algorithms_Design_Techniques) 
   + [Greedy Algorithms](../../tree/main/Algorithms_Design_Techniques/Greedy_Algorithms)
   + [Divide and Conquer Algorithms](../../tree/main/Algorithms_Design_Techniques/Divide_and_Conquer_Algorithms)
   + [Dynamic Programming](../../tree/main/Algorithms_Design_Techniques/Dynamic_Programming)
