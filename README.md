@@ -45,7 +45,6 @@
   + [Selection Algorithms](../../tree/main/Algorithm/Selection_Algorithms)
   + [Hashing](../../tree/main/Algorithm/Selection)
   + [String Algorithms](../../tree/main/Algorithm/String_Algorithms)
-  + https://github.com/HRITIKAKOLKAR/DSA/tree/main/
 * [ALGORITHMS DESIGN TECHNIQUES](../../tree/main/Algorithms%20and%20Design%20Techniques) 
   + [Greedy Algorithms](../../tree/main/Algorithms%20and%20Design%20Techniques/Greedy_Algorithms)
   + [Divide and Conquer Algorithms](../../tree/main/Algorithms%20and%20Design%20Techniques/Divide_and_Conquer_Algorithms)
