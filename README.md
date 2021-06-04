@@ -45,8 +45,9 @@
   + [Selection Algorithms](../../tree/main/Algorithm/Selection_Algorithms)
   + [Hashing](../../tree/main/Algorithm/Selection)
   + [String Algorithms](../../tree/main/Algorithm/String_Algorithms)
-* [ALGORITHMS DESIGN TECHNIQUES](../../tree/main/Algorithms_Design_Techniques) 
-  + [Greedy Algorithms](../../tree/main/Algorithms_Design_Techniques/Greedy_Algorithms)
-  + [Divide and Conquer Algorithms](../../tree/main/Algorithms_Design_Techniques/Divide_and_Conquer_Algorithms)
-  + [Dynamic Programming](../../tree/main/Algorithms_Design_Techniques/Dynamic_Programming)
+  + https://github.com/HRITIKAKOLKAR/DSA/tree/main/
+* [ALGORITHMS DESIGN TECHNIQUES](../../tree/main/Algorithms%20and%20Design%20Techniques) 
+  + [Greedy Algorithms](../../tree/main/Algorithms%20and%20Design%20Techniques/Greedy_Algorithms)
+  + [Divide and Conquer Algorithms](../../tree/main/Algorithms%20and%20Design%20Techniques/Divide_and_Conquer_Algorithms)
+  + [Dynamic Programming](../../tree/main/Algorithms%20and%20Design%20Techniques/Dynamic_Programming)
 ###### FOLLOW ME ON &nbsp; [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hritikakolkar/) &nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/HRITIKAKOLKAR/) &nbsp; [Kaggle](https://www.kaggle.com/hritikakolkar)
