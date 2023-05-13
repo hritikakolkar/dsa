@@ -9,7 +9,7 @@ class Node :
         self.next = next
         self.prev = prev
 
-class Doubly_Linkedlist :
+class DoublyLinkedlist :
     def __init__(self) -> None:
         self.head = None
         self.tail = None
@@ -87,7 +87,7 @@ class Doubly_Linkedlist :
                 index += 1
             pass 
             
-dllist = Doubly_Linkedlist()
+dllist = DoublyLinkedlist()
 dllist.append(1)
 dllist.append(2)
 dllist.append(3)

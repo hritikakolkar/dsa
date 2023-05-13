@@ -14,7 +14,7 @@ class Node:
         self.data = data
         self.next = next
 
-class singlyLinkedlist:
+class SinglyLinkedlist:
     """
     Operations on a LinkedList
     1) Travesing List
@@ -91,7 +91,7 @@ class singlyLinkedlist:
             self.length -= 1
 if __name__ == '__main__':
     #tutorial
-    sllist = singlyLinkedlist()
+    sllist = SinglyLinkedlist()
     for number in range(91,92) :
         sllist.append(number)
     sllist.removeFirst()

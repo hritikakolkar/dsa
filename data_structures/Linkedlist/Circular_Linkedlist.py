@@ -6,7 +6,7 @@ class Node :
     def __init__(self, data :object, next = None) -> None:
         self.data = data
         self.next = next
-class Circular_Linkedlist :
+class CircularLinkedlist :
     def __init__(self):
         self.head = None
         self.length = 0
