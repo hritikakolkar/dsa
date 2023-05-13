@@ -1,4 +1,4 @@
-#Taking input from user to sort using bubble. 
+#Taking input from user to sort using bubble sorting technique. 
 user_lst=list(map(int,input().split()))
 #Let's get started.
 #length of user inputed array.
