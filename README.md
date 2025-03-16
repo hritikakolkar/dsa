@@ -1,6 +1,6 @@
 # DATA STRUCTURES AND ALGORITHMS
 ### IMPLEMENTED IN PYTHON
-#### * DSA for Data scientists
+#### DSA
 
 * [DATA STRUCTURES](./data_structures/)
   + [Arrays](./data_structures/array/)
