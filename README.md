@@ -1,14 +1,14 @@
 # DATA STRUCTURES AND ALGORITHMS
 ### IMPLEMENTED IN PYTHON
 #### DSA
-* Algorithmic Complexity
-  + Time Complexity
-  + Space Complexity
-  + Asymptotic Notation
-    + Big O Notation
-    + Big-θ Notation
-    + Big-Ω Notation
-* [DATA STRUCTURES](./data_structures/)
+* [Algorithmic Complexity]()
+  + [Time Complexity]()
+  + [Space Complexity]()
+  + [Asymptotic Notation]()
+    + [Big O Notation]()
+    + [Big-θ Notation]()
+    + [Big-Ω Notation]()
+* [Data Structures](./data_structures/)
   + [Arrays](./data_structures/array/)
   + [Matrix](./data_structures/matrix/)
   + [LinkedLists](./data_structures/linkedlist/)
@@ -32,7 +32,7 @@
   + [Graphs](./data_structures/graphs/)
   + [Symbol Tables](./data_structures/symbol_table/)
   + [Hash Tables](./data_structures/hash_table/)
-* [ALGORITHMS](./algorithms)
+* [Algorithms](./algorithms)
   + [Sorting](./algorithms/sorting)
     - [Bubble Sort](./algorithms/sorting/bubble_sort.py)
     - [Selection Sort](./algorithms/sorting/selection_sort.py)
@@ -51,31 +51,31 @@
     - [Binary Search](./algorithms/searching/binary_search.py)
     - [Ternary Search](./algorithms/searching/ternary_search.py)
     - [Interpolation Search](./algorithms/searching/interpolation_search.py)
-  + Tree Algorithms
-    + Traversal Algorithms
-      - In-Order Traversal
-      - Pre-Order Traversal
-      - Post-Order Traversal
-    + Search Algorithms
-      - Breadth First Search
-      - Depth First Search
-  + Graphs Algorithms
-    + Search Algorithms
-      - Breadth First Search
-      - Depth First Search
-    + Shortest Path Algorithms
-      - Dijkstra's Algorithm
-      - Bellman-Ford
-    + Minimum Spanning Tree Algorithms
-      - Prim's Algorithm
-      - Kruskal's Algorithm
-      - Boruvka's Algorithm 
+  + [Tree Algorithms]()
+    + [Traversal Algorithms]()
+      - [In-Order Traversal]()
+      - [Pre-Order Traversal]()
+      - [Post-Order Traversal]()
+    + [Search Algorithms]()
+      - [Breadth First Search]()
+      - [Depth First Search]()
+  + [Graphs Algorithms]()
+    + [Search Algorithms]()
+      - [Breadth First Search]()
+      - [Depth First Search]()
+    + [Shortest Path Algorithms]()
+      - [Dijkstra's Algorithm]()
+      - [Bellman-Ford]()
+    + [Minimum Spanning Tree Algorithms]()
+      - [Prim's Algorithm]()
+      - [Kruskal's Algorithm]()
+      - [Boruvka's Algorithm]()
   + [Hashing](./algorithms/hashing)
   + [Indexing](./algorithms/indexing)
-    - Linear Indexing
-    - Tree-Based Indexing
+    - [Linear Indexing]()
+    - [Tree-Based Indexing]()
   + [String algorithms](./algorithms/string_algorithms)
-* [ALGORITHMS DESIGN TECHNIQUES](./algorithms_design_techniques)
+* [Algorithms Design Techniques](./algorithms_design_techniques)
   + [Recursion]()
   + [Back Tracking](./algorithms_design_techniques/back_tracking)
   + [Greedy algorithms](./algorithms_design_techniques/greedy_algorithms)
