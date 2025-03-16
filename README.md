@@ -1,7 +1,13 @@
 # DATA STRUCTURES AND ALGORITHMS
 ### IMPLEMENTED IN PYTHON
 #### DSA
-
+* Algorithmic Complexity
+  + Time Complexity
+  + Space Complexity
+  + Asymptotic Notation
+    + Big O Notation
+    + Big-θ Notation
+    + Big-Ω Notation
 * [DATA STRUCTURES](./data_structures/)
   + [Arrays](./data_structures/array/)
   + [Matrix](./data_structures/matrix/)
