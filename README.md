@@ -11,12 +11,16 @@
     - [Circular LinkedList](./data_structures/linkedlist/circular_linkedlist.py)
   + [Stacks](./data_structures/stack/)
   + [Queues](./data_structures/queue/)
-  + [trees](./data_structures/trees/)
+  + [Trees](./data_structures/trees/)
     - [Binary Tree](./data_structures/trees/binary_tree.py)
     - [Generic Tree (N-ary) Tree](./data_structures/trees/generic_tree.py)
     - [Binary Search (BST) Tree](./data_structures/trees/binary_search_tree.py)
-    - [Balanced Binary Search Tree](./data_structures/trees/balanced_binary_dearch_yree.py)
-    - [Adelson-Velskii and Landis (AVL) Tree](./data_structures/trees/avl_Tree.py)
+    - [Balanced Binary Search Tree](./data_structures/trees/balanced_binary_search_tree.py)
+    - [Adelson-Velskii and Landis (AVL) Tree](./data_structures/trees/avl_tree.py)
+    - [B-Tree](./data_structures/trees/b_tree.py)
+    - [Segment Trees]()
+    - [Fenwick Trees]()
+    - [Trie]()
   + [Priority Queues](./data_structures/priority_queues/)
   + [Heaps](./data_structures/heaps/)
   + [Graphs](./data_structures/graphs/)
@@ -41,12 +45,38 @@
     - [Binary Search](./algorithms/searching/binary_search.py)
     - [Ternary Search](./algorithms/searching/ternary_search.py)
     - [Interpolation Search](./algorithms/searching/interpolation_search.py)
+  + Tree Algorithms
+    + Traversal Algorithms
+      - In-Order Traversal
+      - Pre-Order Traversal
+      - Post-Order Traversal
+    + Search Algorithms
+      - Breadth First Search
+      - Depth First Search
+  + Graphs Algorithms
+    + Search Algorithms
+      - Breadth First Search
+      - Depth First Search
+    + Shortest Path Algorithms
+      - Dijkstra's Algorithm
+      - Bellman-Ford
+    + Minimum Spanning Tree Algorithms
+      - Prim's Algorithm
+      - Kruskal's Algorithm
+      - Boruvka's Algorithm 
   + [Hashing](./algorithms/hashing)
+  + [Indexing](./algorithms/indexing)
+    - Linear Indexing
+    - Tree-Based Indexing
   + [String algorithms](./algorithms/string_algorithms)
-* [ALGORITHMS DESIGN TECHNIQUES](./algorithms_design_techniques) 
-  + [Greedy algorithmss](./algorithms_design_techniques/greedy_algorithms)
-  + [Divide and Conquer algorithmss](./algorithms_design_techniques/divide_and_conquer_algorithms)
+* [ALGORITHMS DESIGN TECHNIQUES](./algorithms_design_techniques)
+  + [Recursion]()
+  + [Back Tracking](./algorithms_design_techniques/back_tracking)
+  + [Greedy algorithms](./algorithms_design_techniques/greedy_algorithms)
+  + [Divide and Conquer](./algorithms_design_techniques/divide_and_conquer_algorithms)
   + [Dynamic Programming](./algorithms_design_techniques/dynamic_programming)
-
++ [Additional Problem Solving Techniques]()
+  + [Two Pointer Technique]()
+  + [Sliding Window Technique]()
   
 ###### FOLLOW ME ON &nbsp; [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hritikakolkar/) &nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/HRITIKAKOLKAR/) &nbsp; [Kaggle](https://www.kaggle.com/hritikakolkar)
