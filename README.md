@@ -36,7 +36,7 @@
     - [Counting Sort](./algorithms/sorting/counting_sort.py)
     - [Topological Sort](./algorithms/sorting/topological_sort.py)
     - [Bucket or Bin Sort](./algorithms/sorting/bucket_sort.py)
-  + [searching](./algorithms/searching)
+  + [Searching](./algorithms/searching)
     - [Linear Search](./algorithms/searching/linear_search.py)
     - [Binary Search](./algorithms/searching/binary_search.py)
     - [Ternary Search](./algorithms/searching/ternary_search.py)
